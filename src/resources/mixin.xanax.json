@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "cat.yoink.xanax.external.mixin",
+  "refmap": "mixin.xanax.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.7.4-SNAPSHOT",
+  "mixins": [
+    "AbstractClientPlayerPatch",
+    "EntityPlayerPatch",
+    "ItemRendererPatch",
+    "NetworkManagerPatch",
+    "PlayerControllerMPPatch",
+    "RenderLivingBasePatch"
+  ]
+}
