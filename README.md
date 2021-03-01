@@ -1,4 +1,5 @@
 Might not build idk why I dont know java i just uploaded it via web client lol. mfw i downloaded as zip. 
+<hr>
 <h1 align="center">XANAX</h1>
 
 <p align="center">Strongest cheat. Original version [was] posted <a href="https://github.com/Katatje/XANAX">here</a></p>
